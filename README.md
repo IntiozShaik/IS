@@ -1,4 +1,4 @@
 # IS
 Git Repository.
 <br>
-Author - Intioz Shaik
+Author - Intioz Sk
